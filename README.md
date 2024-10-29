@@ -13,7 +13,7 @@ Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences
 
 ## Conception
 
-Afin de construire une application efficace , il est essentiel de bien comprendre les besoins et les attentes des utilisateurs. Dans ce projet, j'ai appliqué les principes de conception à travers les étapes suivantes :
+Afin de construire une application efficace , il est essentiel de bien comprendre les besoins et les attentes des utilisateurs. Dans ce projet au sein de mon équipe, j'ai appliqué les principes de conception à travers les étapes suivantes :
 
 [Lire Plus](1.conception/conception.md)
 
