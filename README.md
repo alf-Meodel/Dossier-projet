@@ -1,28 +1,32 @@
-## Introduction
+Exemple le projet de Florence : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc/blob/develop/doc/contexte-et-enjeux/contexte-et-enjeux.md#-sommaire)
 
-Objectif du dossier
-Liste des compétences
-Présentation de l'entreprise et du service
+Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
 
-### Dossier BLOC 1 "Conception"
+Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
 
-    - [ ] Maquettes et prototypes
-    - [ ] Spécifications fonctionnelles
-    - [ ] Modélisation UML (diagrammes de classes, séquences...)
-    - [ ] Modélisation de la base de données
+# Dossier PRO pour le titre de concepteur d'application
 
-### [ ] BLOC 2 Dossier "Développement"
+# Sommaire
 
-    - [ ] Structure du code source
-    - [ ] Documentation API
-    - [ ] Tests unitaires et d'intégration
-    - [ ] Procédures de sécurisation
+## Conception
 
-### [ ] Dossier BLOC 3 "Déploiement" - [ ] Documentation DevOps - [ ] Procédures de déploiement - [ ] Maintenance applicative
+- Maquettes et prototypes
+- Spécifications fonctionnelles
+- Modélisation UML (diagrammes de classes, séquences...)
+- Modélisation de la base de données
 
-### [ ] Configuration du repository du projet Fil Rouge
+## Développement
 
-- [ ] Mise en place des branches (dev, main, features)
-- [ ] Configuration des workflows CI/CD
-- [ ] Templates pour issues et PR
-- [ ] Guides de contribution
+- Structure du code source
+- Documentation API
+- Tests unitaires et d'intégration
+- Procédures de sécurisation
+
+## Déploiement
+
+- Structure du code source
+- Documentation API
+- Tests unitaires et d'intégration
+- Procédures de sécurisation
+
+![CDA_Tableau](assets/img/Tableau_Competences_CDA.jpg)
