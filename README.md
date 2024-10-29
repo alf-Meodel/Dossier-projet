@@ -1,66 +1,28 @@
-# Dossier-projet
-
 ## Introduction
 
 Objectif du dossier
 Liste des compétences
 Présentation de l'entreprise et du service
 
-## Présentation de l'entreprise
+### Dossier BLOC 1 "Conception"
 
-Présentation du service
+    - [ ] Maquettes et prototypes
+    - [ ] Spécifications fonctionnelles
+    - [ ] Modélisation UML (diagrammes de classes, séquences...)
+    - [ ] Modélisation de la base de données
 
-## Expression des besoins du projet
+### [ ] BLOC 2 Dossier "Développement"
 
-Contexte et enjeux
-Objectifs
-Exigences fonctionnelles
+    - [ ] Structure du code source
+    - [ ] Documentation API
+    - [ ] Tests unitaires et d'intégration
+    - [ ] Procédures de sécurisation
 
-## Gestion de projet
+### [ ] Dossier BLOC 3 "Déploiement" - [ ] Documentation DevOps - [ ] Procédures de déploiement - [ ] Maintenance applicative
 
-Méthodologie du projet
-Outil de gestion de projet
-Planning et suivi
+### [ ] Configuration du repository du projet Fil Rouge
 
-## Spécifications fonctionnelles
-
-Livrables
-Architecture logicielle
-Maquettes
-Use-case
-RBAC
-
-## Spécifications techniques
-
-Merise
-Diagramme de classes
-Diagramme de séquences
-
-## Extraits de code
-
-Captures d'écran d'interfaces utilisateur
-Composants métier
-Composants d'accès aux données
-Autres composants
-
-## Présentation d'éléments de sécurité de l'application
-
-Défense en profondeur
-Réduction de la surface d'attaque
-Politique de moindre privilège
-RGPD
-
-## Présentation du plan de tests
-
-Tests unitaires
-Tests d'intégration
-Tests end to end
-
-## Présentation d'un jeu d'essai
-
-## Veille
-
-Vulnérabilités de sécurité rencontrées
-Failles corrigées
-Sources
-## Annexes
+- [ ] Mise en place des branches (dev, main, features)
+- [ ] Configuration des workflows CI/CD
+- [ ] Templates pour issues et PR
+- [ ] Guides de contribution
