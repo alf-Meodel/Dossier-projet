@@ -32,4 +32,4 @@ La première étape à été l'étude du client en passant par une étude de ses
 
 ### Régles de gestion
 
-🔙 [Retour à la Table des matières principale](../README.md)
+🔙 [Retour à la Table des matières](../README.md)
