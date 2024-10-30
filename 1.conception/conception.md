@@ -1,12 +1,25 @@
 # CONCEPTION
 
-La conception du bot discorde c'est mise en place à la demande des représentants de l'équipe Simplon et décomposé en plusieurs étapes afin de faciliter la compréhension du projet par les clients ainsi que la mise en place des taches attribué à l'équipe de développeurs
+La conception du bot discorde c'est mise en place
+à la demande des représentants de l'équipe Simplon
+et décomposé en plusieurs étapes afin de faciliter
+la compréhension du projet par les clients ainsi
+que la mise en place des taches attribué à
+l'équipe de développeurs
 
 ## 1.Choix et mise en place d'une méthodologie de travail adaptée aux besoins du projet
 
 # Introduction
 
-Afin de bénéficier d'une grande flexibilité tout en profitant d'echanges clients réguliers afin d'orienter au mieux le projet en fonction des besoins réels de l'équipe simplon nous avons décidé de mettre en place une oraganisation de travail basé sur la méthodologie SCRUM. explication >>>
+Afin de bénéficier d'une grande flexibilité tout
+en profitant d'echanges clients
+réguliers orientants au fur et à mesure de la construction
+le projet nous avons décidé de mettre en place
+une organisation de travail basé sur la méthodologie SCRUM.
+
+<!-- explication construite de la manière suivante  -->
+
+# >>>
 
 ## Composition de l'équipe
 
