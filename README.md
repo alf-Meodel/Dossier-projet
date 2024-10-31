@@ -24,6 +24,10 @@ Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences
   <img src="./assets/mep/lire_la_suite.png" alt="Lire la suite" style="width: 150px; height: auto;">
 </a>
 
+<a href="1.introduction/introduction.md">
+  <img src="./assets/mep/back_to_top.png" alt="Lire la suite" style="width: 150px; height: auto;">
+</a>
+
 ## Conception
 
 Afin de construire une application efficace , il est essentiel de bien comprendre les besoins et les attentes des utilisateurs. Dans ce projet au sein de mon équipe, j'ai appliqué les principes de conception à travers les étapes suivantes :
@@ -40,4 +44,4 @@ Afin de construire une application efficace , il est essentiel de bien comprendr
 
 ![CDA_Tableau](assets/img/COMPET.png)
 
-![mep_top](./assets/mep/mep_mid1.png)
+![mep_top](./assets/mep/border_rb.png)
