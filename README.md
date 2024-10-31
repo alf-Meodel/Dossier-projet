@@ -4,11 +4,17 @@ Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Sim
 
 <!-- ![mep_top](./assets/mep/line1.png) -->
 
+![mep_top](./assets/mep/mep_mid1.png)
+
 ![mep_top](./assets/img/titre_cda.png)
 
 <!-- ![mep_top](./assets/mep/lol.png) -->
 
 # Sommaire
+
+![mep_top](./assets/mep//mep_mid0.png)
+
+<!-- ![mep_top](./assets/mep/mep_mid1.png) -->
 
 ## Introduction
 
@@ -28,4 +34,4 @@ Afin de construire une application efficace , il est essentiel de bien comprendr
 
 ![CDA_Tableau](assets/img/COMPET.png)
 
-![mep_top](./assets/mep/mep_bot.png)
+![mep_top](./assets/mep/mep_mid1.png)
