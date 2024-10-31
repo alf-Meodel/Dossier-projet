@@ -2,15 +2,11 @@ Exemple le projet de Florence : [depot github](https://github.com/Florence-Marti
 Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
 Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
 
-![mep_top](./assets/mep/line1.png)
+<!-- ![mep_top](./assets/mep/line1.png) -->
 
-![mep_top](./assets/mep/notes0.png)
+![mep_top](./assets/img/titre_cda.png)
 
 <!-- ![mep_top](./assets/mep/lol.png) -->
-
-# Dossier Pro
-
-## Concepteur Developpeur d'Application
 
 # Sommaire
 
