@@ -8,7 +8,7 @@ Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Sim
 
 ![mep_top](./assets/img/titre_cda.png)
 
-<!-- ![mep_top](./assets/mep/lol.png) -->
+![mep_top](./assets/mep/mep_mid1.png)
 
 # Sommaire
 
@@ -21,6 +21,8 @@ Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Sim
 Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences requises afin d'obtenir le titre de Concepteur et Développeur d'Applications. Il présente un projet complet dans lequel j'ai appliqué mes connaissances et compétences dans la conception d'applications robustes et sécurisées \*\*.
 
 [Lire Plus](1.introduction/introduction.md)
+
+![mep_top](./assets/mep/border_rt.png)
 
 ## Conception
 
