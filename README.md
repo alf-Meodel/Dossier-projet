@@ -2,13 +2,22 @@ Exemple le projet de Florence : [depot github](https://github.com/Florence-Marti
 Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
 Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
 
-### Dossier Pro de Concepteur d'Application
+![mep_top](./assets/mep/line1.png)
+
+![mep_top](./assets/mep/notes0.png)
+
+![mep_top](./assets/mep/lol.png)
+
+# Dossier Pro
+
+## Concepteur Developpeur d'Application
 
 # Sommaire
 
 ## Introduction
 
-Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences requises pour obtenir le titre de Concepteur et Développeur d'Applications. Il présente un projet complet dans lequel j'ai appliqué mes connaissances et compétences dans le domaine du développement logiciel\*\*.
+Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences requises afin d'obtenir le titre de Concepteur et Développeur d'Applications. Il présente un projet complet dans lequel j'ai appliqué mes connaissances et compétences dans la conception d'applications robustes et sécurisées \*\*.
+
 [Lire Plus](1.introduction/introduction.md)
 
 ## Conception
@@ -21,4 +30,6 @@ Afin de construire une application efficace , il est essentiel de bien comprendr
 
 ## Déploiement
 
-![CDA_Tableau](assets/img/Tableau_Competences_CDA.jpg)
+![CDA_Tableau](assets/img/Competences.png)
+
+![mep_top](./assets/mep/mep_bot.png)
