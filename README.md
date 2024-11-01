@@ -2,16 +2,15 @@
 
 <!-- ![mep_top](./assets/style/teal_line_t0.png) -->
 
-![mep_top](./assets/style/cadre_multi_t.png)
+![mep_top](./assets/style/cadre_white_t.png)
 
 <!-- Main Title  -->
-<!-- ![titre_cda_main_img](./assets/img/titre_cda.png) -->
 
-![titre_cda_main_img](./assets/style/titre_cda_purple.png)
+![titre_cda_main_img](./assets/img/titre_cda.png)
 
 <!-- ![mep_top](./assets/mep/mep_mid1.png) -->
 
-![mep_top](./assets/style/cadre_multi_b.png)
+![mep_top](./assets/style/cadre_white_b.png)
 
 # Sommaire
 
