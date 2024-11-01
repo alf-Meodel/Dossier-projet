@@ -2,7 +2,7 @@ Exemple le projet de Florence : [depot github](https://github.com/Florence-Marti
 Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
 Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
 
-![mep_top](./assets/img/titre_cda.png)
+![titre_cda_main_img](./assets/img/titre_cda.png)
 
 ![mep_top](./assets/mep/mep_mid1.png)
 
@@ -10,7 +10,7 @@ Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Sim
 
 ![mep_top](./assets/mep//mep_mid0.png)
 
-<!-- ![mep_top](./assets/mep/mep_mid1.png) -->
+![mep_top](./assets/mep/testiti.png)
 
 ## Introduction
 
@@ -21,11 +21,15 @@ Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences
 <!-- ![mep_top](./assets/mep/lire_la_suite.png) -->
 
 <a href="1.introduction/introduction.md">
-  <img src="./assets/mep/lire_la_suite.png" alt="Lire la suite" style="width: 150px; height: auto;">
+  <img src="./assets/mep/read_more.png" alt="Lire la suite" style="width: 150px; height: auto;">
 </a>
 
 <a href="1.introduction/introduction.md">
   <img src="./assets/mep/back_to_top.png" alt="Lire la suite" style="width: 150px; height: auto;">
+</a>
+
+<a href="1.introduction/introduction.md">
+  <img src="./assets/mep/home_page.png " alt="Lire la suite" style="width: 150px; height: auto;">
 </a>
 
 ## Conception

@@ -1,13 +1,18 @@
+![mep_top](/dossier-projet/assets/mep/testiti.png)
+
 # CONCEPTION
 
-La conception du bot discorde c'est mise en place
+La conception du bot discord c'est mise en place
 à la demande des représentants de l'équipe Simplon
 et décomposé en plusieurs étapes afin de faciliter
 la compréhension du projet par les clients ainsi
 que la mise en place des taches attribué à
-l'équipe de développeurs
+l'équipe de développement à travers une méthododologie
+efficace
 
-## 1.Choix et mise en place d'une méthodologie de travail adaptée aux besoins du projet
+## 1.Une Méthodologie adaptée au projet
+
+![mep_top](/dossier-projet/assets/mep/testiti.png)
 
 # Introduction
 
@@ -20,6 +25,8 @@ une organisation de travail basé sur la méthodologie SCRUM.
 <!-- explication construite de la manière suivante  -->
 
 # >>>
+
+![mep_top](/dossier-projet/assets/mep/testiti.png)
 
 ## Composition de l'équipe
 
