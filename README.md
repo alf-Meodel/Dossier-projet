@@ -1,6 +1,8 @@
 <!-- ![mep_top](./assets/mep/border_lb.png) -->
 
-![mep_top](./assets/style/teal_line_t0.png)
+<!-- ![mep_top](./assets/style/teal_line_t0.png) -->
+
+![mep_top](./assets/style/cadre_white_t.png)
 
 <!-- Main Title  -->
 
@@ -8,7 +10,7 @@
 
 <!-- ![mep_top](./assets/mep/mep_mid1.png) -->
 
-![mep_top](./assets/mep/border_rt.png)
+![mep_top](./assets/style/cadre_white_b.png)
 
 # Sommaire
 
