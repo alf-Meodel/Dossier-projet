@@ -1,18 +1,32 @@
-Exemple le projet de Florence : [depot github](https://github.com/Florence-Martin/CDA_fil_rouge)
-Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
-Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
+<!-- ![mep_top](./assets/mep/border_lb.png) -->
+
+![mep_top](./assets/style/teal_line_t0.png)
+
+<!-- Main Title  -->
 
 ![titre_cda_main_img](./assets/img/titre_cda.png)
 
-![mep_top](./assets/mep/mep_mid1.png)
+<!-- ![mep_top](./assets/mep/mep_mid1.png) -->
+
+![mep_top](./assets/mep/border_rt.png)
 
 # Sommaire
 
-![mep_top](./assets/mep//mep_mid0.png)
+![mep_top](./assets/style/point_line_r.png)
 
-![mep_top](./assets/mep/testiti.png)
+<!-- ![mep_top](./assets/mep//mep_mid0.png) -->
+
+# Outils éphémères
+
+- Exemple le projet de Florence : [depot github](https://github.com/Florence-Martin/CDA_fil_rouge)
+
+- Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
+
+- Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
 
 ## Introduction
+
+![mep_top](./assets/style/pink_point_line_l.png)
 
 Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences requises afin d'obtenir le titre de Concepteur et Développeur d'Applications. Il présente un projet complet dans lequel j'ai appliqué mes connaissances et compétences dans la conception d'applications robustes et sécurisées \*\*.
 
@@ -31,6 +45,8 @@ Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences
 <a href="1.introduction/introduction.md">
   <img src="./assets/mep/home_page.png" alt="Home Page" style="width: 150px; height: auto;">
 </a>
+
+![mep_top](./assets/style/pink_point_line_r.png)
 
 ## Conception
 
