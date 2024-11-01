@@ -29,7 +29,7 @@ Ce dossier de projet a pour objectif de démontrer la maîtrise des compétences
 </a>
 
 <a href="1.introduction/introduction.md">
-  <img src="./assets/mep/home_page.png " alt="Lire la suite" style="width: 150px; height: auto;">
+  <img src="./assets/mep/home_page.png" alt="Home Page" style="width: 150px; height: auto;">
 </a>
 
 ## Conception
