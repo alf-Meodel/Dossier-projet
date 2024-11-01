@@ -8,7 +8,7 @@
 
 <!-- ![titre_cda_main_img](./assets/img/titre_cda.png) -->
 
-![titre_cda_main_img](./assets/style/titre_cda_custom.png)
+![titre_cda_main_img](./assets/style/main_cda_test.png)
 
 <!-- ![mep_top](./assets/mep/mep_mid1.png) -->
 
